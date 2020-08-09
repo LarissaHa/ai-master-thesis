@@ -1,60 +1,81 @@
-﻿year;title;name;short name;gender (5);manifestation;physical (5);difference;technical (3);consciousness (5);intelligence (4);free will;learning;emotional;integration (4);on purpose;creator rel. (3);owner rel. (3);female creator;society pos. (3);subject (3);servant (3);intimacy (4);told by (3);quantity (3);warrior;rebellious;harmed humans;harms creator;more control;world domination;alien technology;author gender;explicit mention of gender
-1954;They'd Rather Be Right (aka The Forever Machine);Bossy, the synthetic brain;Bossy;4.0;"""her rejuvenation power""";1;computer with display;1;1;4;0;3;3;2;1;3;3;0;2;3;1;1;3;1;0;0;0;0;0;0;0;0;0
-1966;The Moon Is a Harsh Mistress;HOLMES IV, Mike;Mike;2.0;"male name, referenced as ""he""";1;black box;1;3;4;1;1;1;2.5;1;1;2;0;1;2;1;3;3;1;0;1;0;0;0;0;0;0;0
-1968;Stand on Zanzibar;Shalmaneser;Shal;2.0;"""This was the one he - I mean it - rated highest""";1;white metal, 18 to 11 inch;1;1;4;0;1;3;2;1;2;2;0;1;3;1;1;3;1;0;0;0;0;0;0;0;0;0.5
-1973;Rendezvous with Rama;Biots;Biots;3.0;none;1;crablike, starfish, shark, spider, metallic surface;1;1;1;0;3;3;2;1;nA;nA;nA;2;3;1;1;3;3;1;0;1;0;0;0;1;0;0
-1975;The Female Man;Davy;Davy;1.5;male, in name and in body;4;? Controlled mind?;1;2;2;0;3;3;2.5;1;3;3;1;1;3;1;2;3;1;0;0;0;0;0;0;0;1;1
-1976;“Home Is the Hangman”;Hangman;Hangman;1.5;description from fellow humans;2;tin man;1;3;2;1;1;1;1;1;3;nA;0.25;3;2;1;1;3;1;1;1;1;1;0;0;0;0;0
-1977;Gateway;Sigfrid von Shrink;Sigfrid von Shrink;2.0;name, description from MC;3;only face, puppet like, hologram;1;2;3;0;1;3;2;1;nA;3;nA;1;1;1;1;3;2;0;0;0;0;0;0;0;0;0
-1982;Software;Ralph Numbers;Ralph;1.0;"references himself as ""he""";2;cubboard on crawlers, manipulator arms, sensory head;1;4;4;1;1;1;1;1;3;nA;0;3;1;3;1;2;3;0;1;1;1;1;0;0;0;0
-1982;Software;Big 12 (GAX, TEX, BEX, MEX, Mr Frosti);Big 12;3.0;;1;fabric, hotel, air ship;2;5;4;1;1;3;1;1;3;nA;0;3;3;3;1;3;2;0;1;1;1;1;1;0;0;0
-1982;Software;Cobb Anderson;Cobb;1.0;"was male before, references himself as ""he""";4;can change his appearance, has place for eaten stuff, mind upload in ice-wagon;1;4;3;1;1;1;4;1;3;nA;0;3;1;3;4;2;2;0;0;1;0;1;0;0;0;0
-1983;Tik-Tok;Tik-Tok;Tik-Tok;1.0;physical description, self-description, see text marks;3;tin man with fleshy skin?;1;4;3;1;1;1;2;1;1;3;nA;1;2;2;2;1;3;0;1;1;0;1;0;0;0;0
-1984;Neuromancer;Dixie;Dixie;1.0;mind of Richard, now stored as AI;1;cloud;3;4;3;1;3;1;3;1;nA;nA;nA;3;1;3;3;3;2;0;0;0;0;1;0;0;0;0
-1984;Neuromancer;Wintermute;Wintermute;2.0;"many bodies, but is called ""he"" even they know its ""it""";3;cloud;3;5;4;1;1;3;1;1;2;2;1;3;1;3;1;3;2;0;1;1;0;1;1;0;0;0
-1984;Neuromancer;Neuromancer;Neuromancer;2.0;shows himself as boy;3;cloud;3;5;4;1;1;3;1;1;1;1;nA;3;1;3;1;3;2;0;0;0;0;0;0;0;0;0
-1985;“24 Views of Mt. Fuji by Hokusai”;Kit;Kit;1.5;husband of mari;1;cloud;2;5;4;1;1;2;3;1;3;nA;0;2;1;3;4;3;1;0;1;1;0;1;0;0;0;0
-1985;The Postman;Cyclops;Cyclops;2.0;"is referenced as ""he""";1;gray cylinder in room with blinking lights;1;4;4;0;1;3;2;1;3;2;nA;1;3;1;1;3;1;0;0;0;0;0;0;0;0;0
-1986;Speaker for the Dead;Jane;Jane;5.0;"""chooses to appear female"" ";3;cloud;3;5;4;1;1;1;3;0;nA;nA;1;2;2;2;3;2;1;0;0;1;0;0;0;0;0;0
-1989;Hyperion;Johnny (John Keats);Johnny;1.5;"he was build on the base of John Keats, he is read as ""guy"" and he was able to beget a child";4;has access to TechnoCore and Web?;2;4;3;1;1;2;4;1;2;3;nA;2;1;3;4;3;2;0;1;0;0;1;0;0;0;0.5
-1990;Take Back Plenty;Alice;Alice (TBP);4.0;"referenced as ""she""";1;ship;1;3;4;0;1;3;3;1;1;3;nA;1;1;1;3;3;2;0;0;0;0;0;0;0;0;0
-1990;The Fall of Hyperion;Joseph Severn;Severn;1.0;"""as a boy""";4;has access to TechnoCore and Web?;2;4;3;1;1;1;4;1;2;nA;nA;2;1;3;3;1;2;0;0;0;0;0;0;0;0;0.5
-1990;The Fall of Hyperion;TechnoCore;Core;3.0;;1;swarm/cloud;3;5;4;1;1;3;4;0;nA;nA;nA;2;3;3;1;3;1;0;0;1;0;1;1;0;0;0
-1990;Use of Weapons;Skaffen-Amtiskaw;Skaffen;3.0;;1;drone;1;4;3;1;1;1;2;1;1;2;nA;1;1;1;1;2;3;1;0;1;0;0;0;0;0;0
-1991;Body of Glass (He, she, it);Yod;Yod;1.0;has sexuality;5;cyborg = augmented human;1;4;4;1;1;2;4;1;3;3;0.5;3;1;2;4;3;2;1;1;1;0;0;0;0;1;1
-1991;Synners;Art Fish;Art;1.0;"androgyn figure, but others refer as ""him"", refers to other copy of him as ""he""";1;only virtual, not diffenrentiable in virtual environment;3;5;4;1;1;3;4;0;2;nA;0;1;1;3;1;3;1;0;0;0;0;0;0;0;1;0
-1992;A Fire Upon the Deep;the Blight;the Blight;3.0;;1;nanotechnology, virus who can affect also biological entities;1;1;1;1;3;3;1;0;nA;nA;nA;3;3;3;1;3;1;0;1;1;0;1;1;1;0;0
-1993;Moving Mars;Alice;Alice (MM);4.5;choses female appearance;3;program with visual human simulation;3;4;4;1;1;3;4;1;1;3;nA;1;1;1;3;3;2;0;0;0;0;0;0;0;0;0.5
-1994;Permutation City;Paul Durham;Paul Durham;1.0;"speaks of himself as ""Paul"", is copy of Paul";3;cloud;3;4;3;1;1;1;2;1;3;3;0;1;3;1;1;1;3;0;1;0;0;1;0;0;0;0
-1995;The Diamond Age;Primer;Primer;3.5;female reader voice;1;book;1;1;2;0;1;3;2.5;1;2;3;0;1;3;1;3;3;2;0;0;0;0;0;0;0;0;0
-1996;Excession;Churt Lyne;Churt;3.0;;1;drone;1;4;3;1;1;1;3;1;1;nA;nA;1;1;3;3;2;3;1;0;0;0;0;0;0;0;0
-1996;Excession;Sisela Ytheleus;Sisela;3.0;;1;military drone;1;3;3;1;1;1;2;1;1;nA;nA;1;3;1;1;2;3;1;0;0;0;0;0;0;0;0
-1996;Excession;GSV Sleeper Service;Sleeper;3.0;;4;humanlike avatar, but total ship ai / mind;2;5;4;1;1;1;4;1;1;nA;nA;1;1;3;1;2;3;0;0;0;0;0;0;0;0;0.5
-1997;The Rise of Endymion;Rhadamanth Nemes;Nemes;4.0;;5;human appearance with technical alterations and carbon fiber bones;1;4;4;1;1;3;4;1;2;nA;nA;2;1;3;1;2;2;1;0;1;0;0;0;0;0;0
-1999;Dreaming in Smoke;Ganesh;Ganesh;2.5;"""it"", ships AI, but male connotated name";1;program, verbal contact and sensory points in station;3;5;4;1;1;3;2;1;1;1;nA;1;3;1;1;3;1;0;0;0;0;0;0;0;1;0
-2000;Perdido Street Station;Construct Council;Council;2.5;"referenced as ""it"", but chooses representation as ""man"", and as coloss with ""sexless groin""";3;hive mind of cleaning robots and mechanical parts;2;5;4;1;1;3;1.5;0;2;nA;nA;2;1;3;1;3;1;0;0;0;0;0;0;0;0;0
-2005;Accelerando;Group-Mind;Group-Mind;nA;;1;mind upload of humans, within other humans;2;5;3;1;1;1;4;1;1;nA;0;1;3;3;1;3;1;0;1;0;0;1;0;0;0;0
-2005;Accelerando;Lobster colony;Lobster;nA;;1;mind upload of lobsters;3;5;4;1;1;1;1;1;1;nA;nA;1;2;3;1;3;1;0;1;0;0;1;0;0;0;0
-2005;Accelerando;Aineko, AI Neko;Aineko;1.0;"described by others as she, while ""cat"" most often ""it"", while Aineko ""him""";1;animal, cat;2;5;4;1;1;3;4;1;3;3;0.5;1;1;2;3;2;3;0;1;1;1;1;0;0;0;0
-2005;Spin;Hypotheticals;Hypotheticals;3.0;nA;1;biological-mechanical von Neuman machine;1;1;1;1;3;3;1;1;nA;nA;nA;2;3;3;1;3;1;0;0;0;0;1;0;1;0;0
-2006;Rainbows End;Rabbit;Rabbit;1.0;"when talked about ""it"", when from selfperspective ""he""";2;rabbit in human shape (like Bucks Bunny);3;4;4;1;1;1;2;nA;nA;nA;nA;2;1;3;1;2;1;0;1;0;0;1;0;0;0;0
-2010;The Lifecycle of Software Objects;Digients;Digients;nA;various, based on selection of human;2;animal like;2;2;2;1;1;1;3;1;2;3;0.5;2;3;1;3;3;3;0;0;0;0;0;0;0;0;0
-2011;Herr aller Dinge;Nanobots;Nanobots;3.0;nA;1;single atom-sized entities;1;1;1;0;3;3;2;1;nA;3;nA;2;3;1;1;3;1;1;0;0;0;0;0;1;0;0
-2012;2312;Androids;Androids;nA;"girlish / androgynous features, referenced as ""it"" or ""she"", not sure if male genitals etc.";4;?? Maybe in behavior;1;3;3;1;1;3;4;nA;nA;nA;nA;1;1;3;1;3;2;0;1;0;0;0;0;0;0;0.5
-2012;2312;Pauline;Pauline;4.0;"references as ""she""";1;;3;2;3;0;1;3;2;1;1;3;nA;1;3;1;1;3;3;0;0;0;0;0;0;0;0;0
-2013;Ancillary Justice;Anaander Mianaai;Anaander;4.0;one cloned human with implants;4;all clones share one consciousness;2;5;4;1;1;3;4;1;nA;nA;nA;1;1;3;1;3;2;0;1;1;0;1;1;0;1;1
-2013;Ancillary Justice;Breq from the Gerenade, Breq Mianaani;Breq;4.0;"her body is read as ""girl""";4;implant;1;4;3;1;1;1;4;1;2;1;nA;1;1;3;3;1;1;1;1;1;1;0;0;0;1;1
-2013;Ancillary Justice;Justice of Toren One Esk Nineteen;One Esk;3.0;mind in many human bodies;3;cloud;2;5;4;1;1;2;2;1;nA;3;nA;1;3;1;1;1;2;1;0;0;0;0;0;0;1;0
-2013;Rupetta;Rupetta;Rupetta;5.0;female body, self-description;4;of copper and leather and steel;1;4;3;1;1;1;3.5;1;3;3;1;2;2;2;4;1;1;0;0;0;0;0;0;0;1;1
-2014;Ancillary Sword;Station;Station;3.0;nA;1;Station AI;1;5;4;1;1;1;2;1;nA;2;nA;1;3;1;1;3;3;0;0;0;0;0;0;0;1;0
-2014;Ancillary Sword;Ship;Ship;3.0;nA;1;Ships AI;1;5;4;1;1;1;2;1;nA;3;nA;1;2;1;1;3;2;1;0;0;0;0;0;0;1;0
-2014;Apex;Su-Yong Shu;Su-Yong Shu;5.0;was woman before;4;cloud;2;5;4;1;1;1;1.5;1;3;nA;1;3;1;3;1;1;1;0;1;1;0;1;1;0;0;0
-2014;The Three-Body Problem;The Sophon;The Sophon;3.0;nA;1;microscopic surveillance supercomputer;1;1;1;0;1;3;1;1;2;1;nA;1;3;1;1;3;1;1;0;1;0;1;1;1;0;0
-2015;Ancillary Mercy;Breq Mianaani;Breq3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-2015;Das Schiff;Supervisor;Supervisor;2.0;described as man, choses male appearance;3;;3;5;4;1;1;3;2;1;3;nA;0.25;1;1;3;1;3;1;0;0;0;0;0;1;0;0;0
-2015;Das Schiff;Bartholomäus;Bartho;2.0;"described as ""he""";3;silvery skin;2;5;4;1;1;3;4;1;2;nA;nA;1;1;3;1;3;1;0;1;1;0;1;1;0;0;0
-2015;Seveneves;Robots;Robots;3.0;nA;1;like animals;1;1;1;0;1;3;2;1;2;1;1;1;3;1;1;3;2;0;0;0;0;0;0;0;0;0
-2017;All Systems Red;Murderbot;Murderbot;3.0;explicitly says that it has no gender;5;emotions, skin recovery;1;4;4;1;1;2;3;1;1;3;nA;2;2;2;3;1;3;1;1;1;0;1;0;0;1;1
-2017;QualityLand;John of Us;John of Us;2.0;name, description of body;4;mind;1;4;4;1;1;1;4;1;2;2;0;1;1;3;1;3;1;0;0;0;0;1;0;0;0;0
-2017;QualityLand;Kalliope 7.3;Kalliope 7.3;5.0;"names herself ""e-poetin"", is described as ""androidin""";4;mind;1;4;4;1;1;1;2;1;1;2;nA;1;1;1;1;3;3;0;1;0;0;0;0;0;0;0
-2018;Der Kanon mechanischer Seelen;Beseelte;Beseelte;nA;der Fluss, der Rucksack, die Uhr, die Lampe;2;things, artifacts, thrown into life;1;3;2;1;1;1;4;1;2;2;nA;1;1;1;3;3;3;0;0;0;0;0;0;0;0;0
+﻿year;title;name;short name;gender (5);manifestation;physical (5);difference;technical (3);consciousness (5);intelligence (4);free will;learning;emotional;integration (4);on purpose;creator rel. (3);owner rel. (3);female creator;society pos. (3);subject (3);servant (3);intimacy (4);told by (3);quantity (3);warrior;rebellious;harmed humans;harms creator;more control;world domination;alien technology;author gender;explicit mention of gender;link to goodreads
+1954;They'd Rather Be Right (aka The Forever Machine);Bossy, the synthetic brain;Bossy;4.0;"""her rejuvenation power""";1;computer with display;1;1;4;0;3;3;2;1;3;3;0;2;3;1;1;3;1;0;0;0;0;0;0;0;0;0;https://www.goodreads.com/book/show/754001.They_d_Rather_Be_Right?from_search=true&from_srp=true&qid=Ouoz7m7t9t&rank=1
+1966;The Moon Is a Harsh Mistress;HOLMES IV, Mike;Mike;2.0;"male name, referenced as ""he""";1;black box;1;3;4;1;1;1;02. May;1;1;2;0;1;2;1;3;3;1;0;1;0;0;0;0;0;0;0;https://www.goodreads.com/book/show/16690.The_Moon_Is_a_Harsh_Mistress?ac=1&from_search=true&qid=hpGZdyZi5Q&rank=1
+1968;Stand on Zanzibar;Shalmaneser;Shal;2.0;"""This was the one he - I mean it - rated highest""";1;white metal, 18 to 11 inch;1;1;4;0;1;3;2;1;2;2;0;1;3;1;1;3;1;0;0;0;0;0;0;0;0;0.5;https://www.goodreads.com/book/show/41069.Stand_on_Zanzibar?ac=1&from_search=true&qid=2tjddishvK&rank=1
+1973;Rendezvous with Rama;Biots;Biots;3.0;none;1;crablike, starfish, shark, spider, metallic surface;1;1;1;0;3;3;2;1;nA;nA;nA;2;3;1;1;3;3;1;0;1;0;0;0;1;0;0;https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama?ac=1&from_search=true&qid=MAs8t7sy33&rank=1
+1975;The Female Man;Davy;Davy;01. May;male, in name and in body;4;? Controlled mind?;1;2;2;0;3;3;02. May;1;3;3;1;1;3;1;2;3;1;0;0;0;0;0;0;0;1;1;https://www.goodreads.com/book/show/908311.The_Female_Man?ac=1&from_search=true&qid=1fNKTmW3ID&rank=1
+1976;“Home Is the Hangman”;Hangman;Hangman;01. May;description from fellow humans;2;tin man;1;3;2;1;1;1;1;1;3;nA;0.25;3;2;1;1;3;1;1;1;1;1;0;0;0;0;0;https://www.goodreads.com/book/show/1124903.Home_is_the_Hangman?ac=1&from_search=true&qid=daPqVH6aXb&rank=1
+1977;Gateway;Sigfrid von Shrink;Sigfrid von Shrink;2.0;name, description from MC;3;only face, puppet like, hologram;1;2;3;0;1;3;2;1;nA;3;nA;1;1;1;1;3;2;0;0;0;0;0;0;0;0;0;https://www.goodreads.com/book/show/218427.Gateway?ac=1&from_search=true&qid=ABe44Xszzf&rank=2
+1982;Software;Ralph Numbers;Ralph;1.0;"references himself as ""he""";2;cubboard on crawlers, manipulator arms, sensory head;1;4;4;1;1;1;1;1;3;nA;0;3;1;3;1;2;3;0;1;1;1;1;0;0;0;0;https://www.goodreads.com/book/show/274043.Software?ac=1&from_search=true&qid=AFRTmky6Vr&rank=1
+1982;Software;Big 12 (GAX, TEX, BEX, MEX, Mr Frosti);Big 12;3.0;;1;fabric, hotel, air ship;2;5;4;1;1;3;1;1;3;nA;0;3;3;3;1;3;2;0;1;1;1;1;1;0;0;0;https://www.goodreads.com/book/show/274043.Software?ac=1&from_search=true&qid=AFRTmky6Vr&rank=1
+1982;Software;Cobb Anderson;Cobb;1.0;"was male before, references himself as ""he""";4;can change his appearance, has place for eaten stuff, mind upload in ice-wagon;1;4;3;1;1;1;4;1;3;nA;0;3;1;3;4;2;2;0;0;1;0;1;0;0;0;0;https://www.goodreads.com/book/show/274043.Software?ac=1&from_search=true&qid=AFRTmky6Vr&rank=1
+1983;Tik-Tok;Tik-Tok;Tik-Tok;1.0;physical description, self-description, see text marks;3;tin man with fleshy skin?;1;4;3;1;1;1;2;1;1;3;nA;1;2;2;2;1;3;0;1;1;0;1;0;0;0;0;https://www.goodreads.com/book/show/236202.Tik_Tok?ac=1&from_search=true&qid=gnpcnJHlyM&rank=5
+1984;Neuromancer;Dixie;Dixie;1.0;mind of Richard, now stored as AI;1;cloud;3;4;3;1;3;1;3;1;nA;nA;nA;3;1;3;3;3;2;0;0;0;0;1;0;0;0;0;https://www.goodreads.com/book/show/6088007-neuromancer?ac=1&from_search=true&qid=0Tcx8qaEyu&rank=1
+1984;Neuromancer;Wintermute;Wintermute;2.0;"many bodies, but is called ""he"" even they know its ""it""";3;cloud;3;5;4;1;1;3;1;1;2;2;1;3;1;3;1;3;2;0;1;1;0;1;1;0;0;0;https://www.goodreads.com/book/show/6088007-neuromancer?ac=1&from_search=true&qid=0Tcx8qaEyu&rank=1
+1984;Neuromancer;Neuromancer;Neuromancer;2.0;shows himself as boy;3;cloud;3;5;4;1;1;3;1;1;1;1;nA;3;1;3;1;3;2;0;0;0;0;0;0;0;0;0;https://www.goodreads.com/book/show/6088007-neuromancer?ac=1&from_search=true&qid=0Tcx8qaEyu&rank=1
+1985;“24 Views of Mt. Fuji by Hokusai”;Kit;Kit;01. May;husband of mari;1;cloud;2;5;4;1;1;2;3;1;3;nA;0;2;1;3;4;3;1;0;1;1;0;1;0;0;0;0;https://www.goodreads.com/book/show/20839082-24-views-of-mt-fuji-by-hokusai?ac=1&from_search=true&qid=uQGa51kCLu&rank=1
+1985;The Postman;Cyclops;Cyclops;2.0;"is referenced as ""he""";1;gray cylinder in room with blinking lights;1;4;4;0;1;3;2;1;3;2;nA;1;3;1;1;3;1;0;0;0;0;0;0;0;0;0;https://www.goodreads.com/book/show/889284.The_Postman?ac=1&from_search=true&qid=yvsy4EfuKz&rank=2
+1986;Speaker for the Dead;Jane;Jane;5.0;"""chooses to appear female"" ";3;cloud;3;5;4;1;1;1;3;0;nA;nA;1;2;2;2;3;2;1;0;0;1;0;0;0;0;0;0;https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead?ac=1&from_search=true&qid=SNxsoH71Ag&rank=1
+1989;Hyperion;Johnny (John Keats);Johnny;01. May;"he was build on the base of John Keats, he is read as ""guy"" and he was able to beget a child";4;has access to TechnoCore and Web?;2;4;3;1;1;2;4;1;2;3;nA;2;1;3;4;3;2;0;1;0;0;1;0;0;0;0.5;https://www.goodreads.com/book/show/77566.Hyperion?ac=1&from_search=true&qid=WL2dJMEqoI&rank=1
+1990;Take Back Plenty;Alice;Alice (TBP);4.0;"referenced as ""she""";1;ship;1;3;4;0;1;3;3;1;1;3;nA;1;1;1;3;3;2;0;0;0;0;0;0;0;0;0;https://www.goodreads.com/book/show/1415743.Take_Back_Plenty?ac=1&from_search=true&qid=UAjghuU9SQ&rank=1
+1990;The Fall of Hyperion;Joseph Severn;Severn;1.0;"""as a boy""";4;has access to TechnoCore and Web?;2;4;3;1;1;1;4;1;2;nA;nA;2;1;3;3;1;2;0;0;0;0;0;0;0;0;0.5;https://www.goodreads.com/book/show/77565.The_Fall_of_Hyperion?ac=1&from_search=true&qid=8kZTzvBRB7&rank=1
+1990;The Fall of Hyperion;TechnoCore;Core;3.0;;1;swarm/cloud;3;5;4;1;1;3;4;0;nA;nA;nA;2;3;3;1;3;1;0;0;1;0;1;1;0;0;0;https://www.goodreads.com/book/show/77565.The_Fall_of_Hyperion?ac=1&from_search=true&qid=8kZTzvBRB7&rank=1
+1990;Use of Weapons;Skaffen-Amtiskaw;Skaffen;3.0;;1;drone;1;4;3;1;1;1;2;1;1;2;nA;1;1;1;1;2;3;1;0;1;0;0;0;0;0;0;https://www.goodreads.com/book/show/12007.Use_of_Weapons?from_search=true&from_srp=true&qid=07RN2Eicsg&rank=1
+1991;Body of Glass (He, she, it);Yod;Yod;1.0;has sexuality;5;cyborg = augmented human;1;4;4;1;1;2;4;1;3;3;0.5;3;1;2;4;3;2;1;1;1;0;0;0;0;1;1;https://www.goodreads.com/book/show/1151188.Body_Of_Glass?ac=1&from_search=true&qid=tE6bvrFTuv&rank=1
+1991;Synners;Art Fish;Art;1.0;"androgyn figure, but others refer as ""him"", refers to other copy of him as ""he""";1;only virtual, not diffenrentiable in virtual environment;3;5;4;1;1;3;4;0;2;nA;0;1;1;3;1;3;1;0;0;0;0;0;0;0;1;0;https://www.goodreads.com/book/show/304806.Synners?ac=1&from_search=true&qid=kkPNOE7Rjj&rank=1
+1992;A Fire Upon the Deep;the Blight;the Blight;3.0;;1;nanotechnology, virus who can affect also biological entities;1;1;1;1;3;3;1;0;nA;nA;nA;3;3;3;1;3;1;0;1;1;0;1;1;1;0;0;https://www.goodreads.com/book/show/77711.A_Fire_Upon_the_Deep?ac=1&from_search=true&qid=94w9czVO0J&rank=1
+1993;Moving Mars;Alice;Alice (MM);04. May;choses female appearance;3;program with visual human simulation;3;4;4;1;1;3;4;1;1;3;nA;1;1;1;3;3;2;0;0;0;0;0;0;0;0;0.5;https://www.goodreads.com/book/show/340816.Moving_Mars?ac=1&from_search=true&qid=NsHiGLXUY8&rank=1
+1994;Permutation City;Paul Durham;Paul Durham;1.0;"speaks of himself as ""Paul"", is copy of Paul";3;cloud;3;4;3;1;1;1;2;1;3;3;0;1;3;1;1;1;3;0;1;0;0;1;0;0;0;0;https://www.goodreads.com/book/show/156784.Permutation_City?ac=1&from_search=true&qid=YSEb5wQfGY&rank=1
+1995;The Diamond Age;Primer;Primer;03. May;female reader voice;1;book;1;1;2;0;1;3;02. May;1;2;3;0;1;3;1;3;3;2;0;0;0;0;0;0;0;0;0;https://www.goodreads.com/book/show/827.The_Diamond_Age?ac=1&from_search=true&qid=7yOJ6T4FBj&rank=1
+1996;Excession;Churt Lyne;Churt;3.0;;1;drone;1;4;3;1;1;1;3;1;1;nA;nA;1;1;3;3;2;3;1;0;0;0;0;0;0;0;0;https://www.goodreads.com/book/show/12013.Excession?ac=1&from_search=true&qid=5xleFdQ348&rank=1
+1996;Excession;Sisela Ytheleus;Sisela;3.0;;1;military drone;1;3;3;1;1;1;2;1;1;nA;nA;1;3;1;1;2;3;1;0;0;0;0;0;0;0;0;https://www.goodreads.com/book/show/12013.Excession?ac=1&from_search=true&qid=5xleFdQ348&rank=1
+1996;Excession;GSV Sleeper Service;Sleeper;3.0;;4;humanlike avatar, but total ship ai / mind;2;5;4;1;1;1;4;1;1;nA;nA;1;1;3;1;2;3;0;0;0;0;0;0;0;0;0.5;https://www.goodreads.com/book/show/12013.Excession?ac=1&from_search=true&qid=5xleFdQ348&rank=1
+1997;The Rise of Endymion;Rhadamanth Nemes;Nemes;4.0;;5;human appearance with technical alterations and carbon fiber bones;1;4;4;1;1;3;4;1;2;nA;nA;2;1;3;1;2;2;1;0;1;0;0;0;0;0;0;https://www.goodreads.com/book/show/11289.The_Rise_of_Endymion?ac=1&from_search=true&qid=LKAIamGLvF&rank=1
+1999;Dreaming in Smoke;Ganesh;Ganesh;02. May;"""it"", ships AI, but male connotated name";1;program, verbal contact and sensory points in station;3;5;4;1;1;3;2;1;1;1;nA;1;3;1;1;3;1;0;0;0;0;0;0;0;1;0;https://www.goodreads.com/book/show/828289.Dreaming_in_Smoke?ac=1&from_search=true&qid=EQmivPMeGV&rank=1
+2000;Perdido Street Station;Construct Council;Council;02. May;"referenced as ""it"", but chooses representation as ""man"", and as coloss with ""sexless groin""";3;hive mind of cleaning robots and mechanical parts;2;5;4;1;1;3;01. May;0;2;nA;nA;2;1;3;1;3;1;0;0;0;0;0;0;0;0;0;https://www.goodreads.com/book/show/68494.Perdido_Street_Station?ac=1&from_search=true&qid=LUGEdZvoxk&rank=1
+2005;Accelerando;Group-Mind;Group-Mind;nA;;1;mind upload of humans, within other humans;2;5;3;1;1;1;4;1;1;nA;0;1;3;3;1;3;1;0;1;0;0;1;0;0;0;0;https://www.goodreads.com/book/show/17863.Accelerando?ac=1&from_search=true&qid=Uivuk9ZuaL&rank=1
+2005;Accelerando;Lobster colony;Lobster;nA;;1;mind upload of lobsters;3;5;4;1;1;1;1;1;1;nA;nA;1;2;3;1;3;1;0;1;0;0;1;0;0;0;0;https://www.goodreads.com/book/show/17863.Accelerando?ac=1&from_search=true&qid=Uivuk9ZuaL&rank=1
+2005;Accelerando;Aineko, AI Neko;Aineko;1.0;"described by others as she, while ""cat"" most often ""it"", while Aineko ""him""";1;animal, cat;2;5;4;1;1;3;4;1;3;3;0.5;1;1;2;3;2;3;0;1;1;1;1;0;0;0;0;https://www.goodreads.com/book/show/17863.Accelerando?ac=1&from_search=true&qid=Uivuk9ZuaL&rank=1
+2005;Spin;Hypotheticals;Hypotheticals;3.0;nA;1;biological-mechanical von Neuman machine;1;1;1;1;3;3;1;1;nA;nA;nA;2;3;3;1;3;1;0;0;0;0;1;0;1;0;0;https://www.goodreads.com/book/show/910863.Spin?ac=1&from_search=true&qid=ZQGz6sf2a4&rank=1
+2006;Rainbows End;Rabbit;Rabbit;1.0;"when talked about ""it"", when from selfperspective ""he""";2;rabbit in human shape (like Bucks Bunny);3;4;4;1;1;1;2;nA;nA;nA;nA;2;1;3;1;2;1;0;1;0;0;1;0;0;0;0;https://www.goodreads.com/book/show/102439.Rainbows_End?ac=1&from_search=true&qid=0d7KmUHySX&rank=2
+2010;The Lifecycle of Software Objects;Digients;Digients;nA;various, based on selection of human;2;animal like;2;2;2;1;1;1;3;1;2;3;0.5;2;3;1;3;3;3;0;0;0;0;0;0;0;0;0;https://www.goodreads.com/book/show/7886338-the-lifecycle-of-software-objects?ac=1&from_search=true&qid=YvXCCqVk1J&rank=1
+2011;Herr aller Dinge;Nanobots;Nanobots;3.0;nA;1;single atom-sized entities;1;1;1;0;3;3;2;1;nA;3;nA;2;3;1;1;3;1;1;0;0;0;0;0;1;0;0;https://www.goodreads.com/book/show/11762245-herr-aller-dinge?from_search=true&from_srp=true&qid=CTuVWnJ5nR&rank=1
+2012;2312;Androids;Androids;nA;"girlish / androgynous features, referenced as ""it"" or ""she"", not sure if male genitals etc.";4;?? Maybe in behavior;1;3;3;1;1;3;4;nA;nA;nA;nA;1;1;3;1;3;2;0;1;0;0;0;0;0;0;0.5;https://www.goodreads.com/book/show/11830394-2312?ac=1&from_search=true&qid=HZDoM6MZOo&rank=2
+2012;2312;Pauline;Pauline;4.0;"references as ""she""";1;;3;2;3;0;1;3;2;1;1;3;nA;1;3;1;1;3;3;0;0;0;0;0;0;0;0;0;https://www.goodreads.com/book/show/11830394-2312?ac=1&from_search=true&qid=HZDoM6MZOo&rank=2
+2013;Ancillary Justice;Anaander Mianaai;Anaander;4.0;one cloned human with implants;4;all clones share one consciousness;2;5;4;1;1;3;4;1;nA;nA;nA;1;1;3;1;3;2;0;1;1;0;1;1;0;1;1;https://www.goodreads.com/book/show/17333324-ancillary-justice?ac=1&from_search=true&qid=ZJsOG3x7En&rank=1
+2013;Ancillary Justice;Breq from the Gerenade, Breq Mianaani;Breq;4.0;"her body is read as ""girl""";4;implant;1;4;3;1;1;1;4;1;2;1;nA;1;1;3;3;1;1;1;1;1;1;0;0;0;1;1;https://www.goodreads.com/book/show/17333324-ancillary-justice?ac=1&from_search=true&qid=ZJsOG3x7En&rank=1
+2013;Ancillary Justice;Justice of Toren One Esk Nineteen;One Esk;3.0;mind in many human bodies;3;cloud;2;5;4;1;1;2;2;1;nA;3;nA;1;3;1;1;1;2;1;0;0;0;0;0;0;1;0;https://www.goodreads.com/book/show/17333324-ancillary-justice?ac=1&from_search=true&qid=ZJsOG3x7En&rank=1
+2013;Rupetta;Rupetta;Rupetta;5.0;female body, self-description;4;of copper and leather and steel;1;4;3;1;1;1;03. May;1;3;3;1;2;2;2;4;1;1;0;0;0;0;0;0;0;1;1;https://www.goodreads.com/book/show/17252752-rupetta?from_search=true&from_srp=true&qid=1kJOGRL2ly&rank=1
+2014;Ancillary Sword;Station;Station;3.0;nA;1;Station AI;1;5;4;1;1;1;2;1;nA;2;nA;1;3;1;1;3;3;0;0;0;0;0;0;0;1;0;https://www.goodreads.com/book/show/20706284-ancillary-sword?ac=1&from_search=true&qid=MDKSVO2fkZ&rank=1
+2014;Ancillary Sword;Ship;Ship;3.0;nA;1;Ships AI;1;5;4;1;1;1;2;1;nA;3;nA;1;2;1;1;3;2;1;0;0;0;0;0;0;1;0;https://www.goodreads.com/book/show/20706284-ancillary-sword?ac=1&from_search=true&qid=MDKSVO2fkZ&rank=1
+2014;Apex;Su-Yong Shu;Su-Yong Shu;5.0;was woman before;4;cloud;2;5;4;1;1;1;01. May;1;3;nA;1;3;1;3;1;1;1;0;1;1;0;1;1;0;0;0;https://www.goodreads.com/book/show/20424928-apex?ac=1&from_search=true&qid=l6n0CSlnKu&rank=1
+2014;The Three-Body Problem;The Sophon;The Sophon;3.0;nA;1;microscopic surveillance supercomputer;1;1;1;0;1;3;1;1;2;1;nA;1;3;1;1;3;1;1;0;1;0;1;1;1;0;0;https://www.goodreads.com/book/show/20518872-the-three-body-problem?ac=1&from_search=true&qid=y47RAAoRiL&rank=1
+2015;Ancillary Mercy;Breq Mianaani;Breq3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/23533039-ancillary-mercy?ac=1&from_search=true&qid=EtOzJ8yiTZ&rank=1
+2015;Das Schiff;Supervisor;Supervisor;2.0;described as man, choses male appearance;3;;3;5;4;1;1;3;2;1;3;nA;0.25;1;1;3;1;3;1;0;0;0;0;0;1;0;0;0;https://www.goodreads.com/book/show/26258939-das-schiff?ac=1&from_search=true&qid=QeRiEaRyTJ&rank=1
+2015;Das Schiff;Bartholomäus;Bartho;2.0;"described as ""he""";3;silvery skin;2;5;4;1;1;3;4;1;2;nA;nA;1;1;3;1;3;1;0;1;1;0;1;1;0;0;0;https://www.goodreads.com/book/show/26258939-das-schiff?ac=1&from_search=true&qid=QeRiEaRyTJ&rank=1
+2015;Seveneves;Robots;Robots;3.0;nA;1;like animals;1;1;1;0;1;3;2;1;2;1;1;1;3;1;1;3;2;0;0;0;0;0;0;0;0;0;https://www.goodreads.com/book/show/22816087-seveneves?ac=1&from_search=true&qid=DYRboW9FIT&rank=1
+2017;All Systems Red;Murderbot;Murderbot;3.0;explicitly says that it has no gender;5;emotions, skin recovery;1;4;4;1;1;2;3;1;1;3;nA;2;2;2;3;1;3;1;1;1;0;1;0;0;1;1;https://www.goodreads.com/book/show/32758901-all-systems-red?ac=1&from_search=true&qid=wm6xWYlhKa&rank=1
+2017;QualityLand;John of Us;John of Us;2.0;name, description of body;4;mind;1;4;4;1;1;1;4;1;2;2;0;1;1;3;1;3;1;0;0;0;0;1;0;0;0;0;https://www.goodreads.com/book/show/36216607-qualityland?from_search=true&from_srp=true&qid=nldMJCwyYl&rank=1
+2017;QualityLand;Kalliope 7.3;Kalliope 7.3;5.0;"names herself ""e-poetin"", is described as ""androidin""";4;mind;1;4;4;1;1;1;2;1;1;2;nA;1;1;1;1;3;3;0;1;0;0;0;0;0;0;0;https://www.goodreads.com/book/show/36216607-qualityland?from_search=true&from_srp=true&qid=nldMJCwyYl&rank=1
+2018;Der Kanon mechanischer Seelen;Beseelte;Beseelte;nA;der Fluss, der Rucksack, die Uhr, die Lampe;2;things, artifacts, thrown into life;1;3;2;1;1;1;4;1;2;2;nA;1;1;1;3;3;3;0;0;0;0;0;0;0;0;0;https://www.goodreads.com/book/show/36694594-der-kanon-mechanischer-seelen?ac=1&from_search=true&qid=gwKPTY2mlC&rank=1
+;Provenance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/25353286-provenance?from_search=true&from_srp=true&qid=AGe7nt7ra9&rank=1
+;Sea of Rust;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/32617610-sea-of-rust
+;Wildcard;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/29386918-wildcard?from_search=true&from_srp=true&qid=27HldotfWY&rank=2
+;Die Stadt der Symbionten;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/44370692-die-stadt-der-symbionten?from_search=true&from_srp=true&qid=G45arbycW6&rank=1
+;a memory called empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/37794149-a-memory-called-empire
+;Neon Birds;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/43199412-neon-birds?from_search=true&from_srp=true&qid=zxplt8GFGw&rank=1
+;Die Optimierer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/34825150-die-optimierer?from_search=true&from_srp=true&qid=fODJMHmLX6&rank=1
+;Die Unvollkommenen;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/44084516-die-unvollkommenen?from_search=true&from_srp=true&qid=uFYKuSnPPJ&rank=1
+;The God Game;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/37858133-the-god-game
+;Ace in Space;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/53037241-ace-in-space?ac=1&from_search=true&qid=FmFRVKIOSg&rank=1
+;Emily Eternal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/40521855-emily-eternal?ac=1&from_search=true&qid=Ovsplgh8kn&rank=1
+;Illuminae;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/23395680-illuminae?ac=1&from_search=true&qid=CfCNVlF8Bt&rank=1
+;Barren Cove;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/25814048-barren-cove
+;The Municipalist;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/40711380-the-municipalists
+;Scythe;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/28954189-scythe
+;Hologrammatika;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/38356981-hologrammatica?ac=1&from_search=true&qid=TdoW5UDqet&rank=1
+;Machines Like Me;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/42086795-machines-like-me
+;Noumenon;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/32600718-noumenon?ac=1&from_search=true&qid=XkGFN7Kcjl&rank=1
+;Erebos 2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;https://www.goodreads.com/book/show/45718313-erebos-2?from_search=true&from_srp=true&qid=Yueq9F6GyF&rank=1
+;Odysee;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Blade Runner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
